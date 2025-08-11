@@ -40,3 +40,5 @@ def verificar_eficiencia(nombre_algoritmo, complejidad):
 # Llamada a la función
 mensaje = verificar_eficiencia("Busqueda Binaria", "O(log n)")
 print(f"\nProbando la funcion = {mensaje}") 
+
+"Hola"
